@@ -1,1 +1,0 @@
-DevOps adalah suatu aktivitas dimana seorang engineer mengatur semua alur kerja penguploadan, mulai dari kode awal, hingga smapai proses deploy dari sebuah sistem, DevOps sendiri meliputi proses deploy, Versioning control dam monitor system, sehingga menciptakan sebuah looping dimana proses  Devops sendiri tidak akan selesai selama Sistem Berjalan

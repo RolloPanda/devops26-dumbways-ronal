@@ -46,3 +46,6 @@ Membagi traffic ke beberapa service
 Menambah keamanan
 Bisa digunakan untuk SSL/HTTPS
 Mempermudah deployment
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49977616-a3d6-467e-9c89-f44f2f2e1230" />
